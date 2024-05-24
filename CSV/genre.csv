@@ -1,0 +1,38 @@
+g_id,g_nom,genre_parent
+1,Science-fiction,
+2,Dystopie,1
+3,Post-apocalyptique,1
+4,Space opera,1
+5,Fantasy,
+6,High Fantasy,5
+7,Dark Fantasy,5
+8,Fantasy Urbaine,5
+9,Horreur,
+10,Slasher,9
+11,Body Horror,9
+12,Horreur Psychologique,9
+13,Romance,
+14,Romance Historique,13
+15,Comédie Romantique,13
+16,Drame,
+17,Drame Judiciaire,16
+18,Drame Médical,16
+19,Drame Adolescent,16
+20,Thriller,
+21,Thriller Politique,20
+22,Techno-thriller,20
+23,Thriller Psychologique,20
+24,Comédie,
+25,Comédie Noire,24
+26,Satire,24
+27,Documentaire,24
+28,Action,
+29,Arts Martiaux,28
+30,Super-héros,28
+31,Aventure,
+32,Cap et Épée,31
+33,Survie,31
+34,Crime,
+35,Casse,34
+36,Détective,34
+37,Film noir,34

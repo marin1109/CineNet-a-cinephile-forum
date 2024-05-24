@@ -1,0 +1,70 @@
+ev_id,ev_nom,ev_date,lieu_fk
+1,Nuit des Oscars,2020-03-12,12
+2,Ouverture du Festival de Film,2019-02-15,37
+3,Lancement de Documentaire,2025-07-20,19
+4,Projection de Films Indépendants,2025-08-15,20
+5,Atelier de Films d'Animation,2019-01-28,48
+6,Expo Technologie Cinématographique,2025-09-05,7
+7,Questions-Réponses avec un Réalisateur,2019-05-16,45
+8,Marathon de Films d'Horreur,2025-10-31,27
+9,Atelier d'Acteurs,2020-04-22,33
+10,Débat avec des Célébrités,2025-11-15,51
+11,Gala de Musique de Film,2021-03-30,56
+12,Soirée Cinéma Classique,2025-04-18,62
+13,Première de Film Sci-Fi,2025-06-12,16
+14,Concours de Films pour Jeunes,2021-10-04,18
+15,Exposition de Films Historiques,2025-12-05,1
+16,Soirée de Comédie,2020-06-21,75
+17,Série de Films d'Action,2025-07-22,26
+18,Soirée de Cinéma Underground,2020-11-11,29
+19,Lancement de Film Dramatique,2019-02-14,40
+20,Débats sur le Cinéma d'Art,2025-03-21,64
+21,Première de Blockbuster,2020-07-14,59
+22,Réunion de la Guilde des Réalisateurs,2025-08-19,15
+23,Awards de Courts Métrages,2020-09-17,34
+24,Séminaire sur la Théorie du Film,2025-10-07,8
+25,Vitrine de Cinéastes Locaux,2021-12-03,69
+26,Forum des Nouveaux Cinéastes,2025-01-23,92
+27,Atelier de Scénarisation,2020-04-19,46
+28,Symposium des Critiques de Cinéma,2025-05-30,54
+29,Soirée de Film Culte,2021-03-05,88
+30,Début de Long Métrage,2025-09-10,14
+31,Séminaire sur les Effets Visuels,2021-08-25,41
+32,Projet de Restauration de Cinéma,2025-02-20,22
+33,Journée du Film Documentaire,2022-07-04,83
+34,Graduation de l'École de Cinéma,2020-11-20,24
+35,Journée Internationale du Cinéma,2025-08-23,10
+36,Sommet sur la Publicité au Cinéma,2020-10-31,78
+37,Festival du Film Muet,2021-09-09,82
+38,Forum de Film Expérimental,2025-07-17,60
+39,Convention de la Culture Pop,2021-05-25,66
+40,Expo sur la Technologie des Caméras,2025-04-15,5
+41,Festival du Film Étranger,2020-07-30,74
+42,Soirée Film Noir,2025-06-24,97
+43,Présentation d'Investissement au Cinéma,2020-03-15,57
+44,Atelier de Montage Filmique,2025-11-30,73
+45,Vitrine d'Animation,2019-01-10,86
+46,Concours de Scénarisation,2025-03-20,2
+47,Expérience de Cinéma Virtuel,2021-06-11,61
+48,Atelier de Cinématographie,2022-10-29,9
+49,Séminaire sur le Marketing de Film,2020-02-19,43
+50,Session d'Autographes de Célébrités,2025-10-20,90
+51,Soirée Réalisateurs Indépendants,2021-04-08,65
+52,Sommet du Film d'Aventure,2019-06-12,53
+53,Événement de Financement de Film,2025-05-05,50
+54,Projection en Plein Air,2020-08-22,81
+55,Rencontre avec des Acteurs,2019-04-30,47
+56,Atelier sur la Réalisation de Films,2025-07-05,9
+57,Festival du Film International,2020-05-18,70
+58,Jury du Festival de Films,2021-11-12,89
+59,Conférence sur le Cinéma Numérique,2025-02-12,21
+60,Rétrospective de Films,2020-12-20,4
+61,Fête de Lancement de Série,2019-03-22,93
+62,Réunion des Investisseurs de Film,2022-04-18,23
+63,Atelier de Casting,2021-07-07,38
+64,Panel des Réalisateurs d'Art,2025-08-10,39
+65,Session de Chorégraphie d'Action,2021-05-15,58
+66,Projection de Films Restaurés,2025-09-01,68
+67,Réunion du Jury du Festival de Film,2019-03-11,13
+68,Discussion sur les Documentaires,2025-10-25,77
+69,Lancement de Film d'Animation,2021-04-20,6

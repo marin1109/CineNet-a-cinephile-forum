@@ -1,0 +1,21 @@
+serie_id,r_nom,genre_fk,artiste_fk
+1,"Le Bureau des Légendes",5,13
+2,"Engrenages",2,12
+3,"Dix Pour Cent",3,2
+4,"Un Village Français",7,10
+5,"Les Revenants",9,3
+6,"Le Chalet",4,3
+7,"Zone Blanche",5,4
+8,"Plan Cœur",6,15
+9,"La Forêt",5,12
+10,"La Mante",6,12
+11,"Les Hommes de l'ombre",1,8
+12,"Candice Renoir",7,5
+13,"Falco",3,7
+14,"La Trêve",2,4
+15,"Marseille",9,6
+16,"Braquo",5,14
+17,"Baron Noir",8,11
+18,"No Limit",4,9
+19,"Les Bracelets Rouges",6,13
+20,"Chefs",5,8

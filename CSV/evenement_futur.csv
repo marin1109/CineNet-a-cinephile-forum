@@ -1,0 +1,31 @@
+evf_id,prix,nb_place,programme,organisateur_fk,ev_fk
+1,19.99,100,"Lancement de Documentaire",3,3
+2,15.50,300,"Projection de Films Indépendants",4,4
+3,25.00,600,"Expo Technologie Cinématographique",6,6
+4,30.00,400,"Marathon de Films d'Horreur",8,8
+5,20.00,200,"Débat avec des Célébrités",9,10
+6,22.00,350,"Soirée Cinéma Classique",12,12
+7,18.50,150,"Première de Film Sci-Fi",13,13
+8,16.75,250,"Exposition de Films Historiques",15,15
+9,12.00,300,"Série de Films d'Action",1,17
+10,19.00,450,"Débats sur le Cinéma d'Art",7,20
+11,24.50,200,"Réunion de la Guilde des Réalisateurs",12,22
+12,28.75,500,"Séminaire sur la Théorie du Film",15,24
+13,21.50,150,"Forum des Nouveaux Cinéastes",8,26
+14,18.75,200,"Symposium des Critiques de Cinéma",2,28
+15,25.25,300,"Début de Long Métrage",5,30
+16,14.00,350,"Projet de Restauration de Cinéma",14,32
+17,26.00,250,"Journée Internationale du Cinéma",6,35
+18,20.50,400,"Forum de Film Expérimental",13,38
+19,17.50,450,"Expo sur la Technologie des Caméras",16,40
+20,23.75,300,"Soirée Film Noir",10,42
+21,19.50,250,"Atelier de Montage Filmique",5,44
+22,15.00,150,"Concours de Scénarisation",1,46
+23,22.50,350,"Atelier de Cinématographie",1,48
+24,27.75,400,"Session d'Autographes de Célébrités",2,50
+25,30.00,500,"Événement de Financement de Film",5,53
+26,16.25,300,"Atelier sur la Réalisation de Films",4,56
+27,20.00,350,"Conférence sur le Cinéma Numérique",9,59
+28,25.50,450,"Panel des Réalisateurs d'Art",10,64
+29,22.00,300,"Projection de Films Restaurés",5,66
+30,18.75,400,"Discussion sur les Documentaires",8,68

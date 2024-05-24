@@ -1,0 +1,101 @@
+l_id,l_nom,ville,pays,capacite
+1,Cinéma Impérial,Dawan,China,189
+2,Palais des Arts,Garoua,Cameroon,100
+3,Studio Artois,Mrganush,Armenia,122
+4,Salle Rouge,Rybinsk,Russia,132
+5,Cinéma Tropico,Oviedo,Dominican Republic,124
+6,Studio Nigéria,Wurno,Nigeria,31
+7,Auditorium Charlotte,Charlotte,United States,47
+8,Mini Théâtre Yunji,Yunji,China,55
+9,Grand Cinéma Maoyang,Maoyang,China,193
+10,Petit Théâtre Hamakita,Hamakita,Japan,37
+11,Chapiteau de Chepes,Chepes,Argentina,42
+12,Centre de Conférence Mahalapye,Mahalapye,Botswana,190
+13,Cinéma Bohai,Bohai,China,134
+14,Salle Multimédia Sudimoro,Sudimoro,Indonesia,62
+15,Cinéma de Gora,Gora,Nigeria,65
+16,Studio Grati Satu,Grati Satu,Indonesia,83
+17,Cinéma du Pakistan,Badīn,Pakistan,37
+18,Salle de Petrokamenskoye,Petrokamenskoye,Russia,75
+19,Forum Acacías,Acacías,Colombia,105
+20,Studio Asie,Yingwusitang,China,126
+21,Cinéma Bambor,Bambor,Indonesia,170
+22,Palais de Rokitno,Rokitno Szlacheckie,Poland,116
+23,Studio d'Art Shixian,Shixian,China,107
+24,Forum de Macayug,Macayug,Philippines,94
+25,Cinéma Xishui,Xishui,China,149
+26,Salle de Spectacle Narok,Narok,Kenya,158
+27,Cinéma Honduras,Potrerillos,Honduras,150
+28,Studio Scandinave,Halmstad,Sweden,55
+29,Centre Culturel Kurikka,Kurikka,Finland,137
+30,Auditorium Izlake,Izlake,Slovenia,56
+31,Mini Cinéma Liwu,Liwu,China,33
+32,Studio Sukadana,Sukadana,Indonesia,46
+33,Auditorium Polonais,Puszczykowo,Poland,44
+34,Palais des Événements Elías,Elías,Colombia,130
+35,Studio Dera,Dera Murād Jamāli,Pakistan,190
+36,Auditorium de Sacramento,Sacramento,United States,147
+37,Cinéma Canadien,Saint-Ambroise,Canada,160
+38,Cinéma de Mongolie,Mönhbulag,Mongolia,95
+39,Cinéma des Arts,Gołkowice,Poland,75
+40,Cinéma San Felipe,San Felipe,Peru,106
+41,Studio des Îles,Santo Domingo,Philippines,74
+42,Cinéma Indonésien,Kimakamak,Indonesia,121
+43,Palais Darungan,Darungan,Indonesia,97
+44,Cinéma Royal,Dean,United Kingdom,145
+45,Salle Cinématographique Loikaw,Loikaw,Myanmar,28
+46,Auditorium du Panama,Llano de Piedra,Panama,152
+47,Cinéma Tobelo,Tobelo,Indonesia,31
+48,Cinéma Tchèque,Trhové Sviny,Czech Republic,155
+49,Grand Théâtre Mexicain,Emiliano Zapata,Mexico,192
+50,Studio Indonésie,Tlutup,Indonesia,155
+51,Studio Hekou,Hekou,China,150
+52,Cinéma Thaïlandais,Wang Nam Khiao,Thailand,190
+53,Studio Méditerranéen,Pridraga,Croatia,66
+54,Cinéma de l'Est,Jinshi,China,150
+55,Studio Xiaotang,Xiaotang,China,102
+56,Salle d'Événements Nigeria,Okpoma,Nigeria,75
+57,Cinéma Scandinave,Arendal,Norway,123
+58,Salle Multimédia Pitea,Pitea,Sweden,76
+59,Cinéma Basque,Urdiain,Spain,156
+60,Cinéma Mandailing,Mandailing Natal,Indonesia,160
+61,Palais Salzburg,Salzburg,Austria,96
+62,Studio Hidalgo,Santo Domingo,Saint Kitts and Nevis,115
+63,Cinéma Bhakti,Bhakti,Indonesia,40
+64,Salle de Projection Jingmen,Jingmen,China,75
+65,Cinéma Africain,Potha,India,137
+66,Cinéma du Port,Ocozocoautla de Espinosa,Mexico,83
+67,Cinéma Imperial,Mhāsvād,India,179
+68,Studio Estland,Pihtla,Estonia,144
+69,Cinéma Chypriote,Kyperounda,Cyprus,151
+70,Cinéma Slovaque,Kysucké Nové Mesto,Slovakia,50
+71,Cinéma Australe,Babinda,Australia,166
+72,Cinéma Mongolie,Šarközi,Mongolia,52
+73,Cinéma Brésilien,Camapuã,Brazil,178
+74,Cinéma Timis,Jimeta,Nigeria,158
+75,Cinéma Asie,Jerada,Morocco,102
+76,Cinéma Gabon,Gabú,Guinea-Bissau,67
+77,Cinéma Mongole,Mandalgovi,Mongolia,143
+78,Palais d'Aruba,Oranjestad,Aruba,41
+79,Cinéma Américain,Southbridge,United States,62
+80,Cinéma Arabe,Dukuh,Indonesia,147
+81,Cinéma Coréen,Jeonju,South Korea,98
+82,Cinéma Manokwari,Manokwari,Indonesia,102
+83,Cinéma Monde,Merangin,Indonesia,193
+84,Studio Uşak,Uşak,Turkey,75
+85,Cinéma Palma,Palma de Mallorca,Spain,78
+86,Cinéma Italien,Rovigo,Italy,123
+87,Cinéma Italien II,Matera,Italy,82
+88,Cinéma Séoul,Séoul,South Korea,132
+89,Cinéma Anglais,Pocklington,United Kingdom,81
+90,Cinéma Marocain,Khouribga,Morocco,107
+91,Cinéma Français,Rennes,France,67
+92,Cinéma Grec,Patras,Greece,137
+93,Cinéma Russe,Karabash,Russia,155
+94,Palais du Cinéma,Novomichurinsk,Russia,166
+95,Studio de Cinéma,Garagoa,Colombia,54
+96,Cinéma Ural,Kachkanar,Russia,179
+97,Cinéma Balinais,Gianyar,Indonesia,58
+98,Cinéma Fethiye,Fethiye,Turkey,129
+99,Cinéma Palawan,Palawan,Philippines,168
+100,Cinéma de L'océan,Pointe-Noire,Republic of the Congo,121

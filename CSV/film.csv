@@ -1,0 +1,41 @@
+film_id,titre,artiste_fk,date_sortie,genre_fk,synopsis,duree,note
+1,Le Seigneur des Anneaux : La Communauté de l'Anneau,15,2024-04-17,6,"Un jeune hobbit nommé Frodon Sacquet entreprend un dangereux voyage pour détruire un anneau puissant.",515,2
+2,Inception,7,2024-01-23,3,"Un voleur habile dirige une équipe dans le subconscient pour implanter une idée dans l'esprit de quelqu'un.",359,0
+3,Interstellar,6,2023-11-19,1,"Un groupe d'astronautes voyage à travers un trou de ver à la recherche d'une nouvelle planète habitable.",480,5
+4,Harry Potter à l'École des Sorciers,2,2023-07-01,5,"Un jeune garçon découvre qu'il est un sorcier et fréquente une école de magie pour découvrir son destin.",15,1
+5,Avengers : Endgame,8,2024-11-17,7,"Les Avengers se rassemblent une fois de plus pour inverser les dégâts causés par Thanos lors d'un affrontement final.",172,1
+6,The Dark Knight,13,2023-11-28,7,"Batman affronte le Joker, un criminel génial qui cherche à plonger Gotham City dans l'anarchie.",393,2
+7,Matrix,3,2024-11-24,3,"Un hacker découvre la véritable nature de sa réalité et son rôle dans la guerre contre ses contrôleurs.",569,1
+8,Pulp Fiction,6,2025-05-16,9,"Les vies de deux tueurs à gages, d'un boxeur, de la femme d'un gangster et d'un couple de braqueurs de restaurant s'entrelacent en quatre récits de violence et de rédemption.",230,4
+9,Jurassic Park,3,2023-06-11,8,"Un parc à thème présentant des dinosaures génétiquement modifiés tourne au cauchemar lorsque les créatures s'échappent.",95,3
+10,Les Évadés,8,2024-06-22,8,"Deux hommes emprisonnés se lient d'amitié au fil des années, trouvant réconfort et rédemption à travers des actes de décence commune.",426,2
+11,Le Parrain,4,2024-02-01,4,"L'ascension et la chute d'une famille de la mafia italo-américaine dirigée par Don Vito Corleone et son fils Michael.",175,5
+12,Forrest Gump,5,2023-03-15,6,"Un homme simple au grand cœur raconte sa vie incroyable marquée par des événements historiques et des rencontres mémorables.",142,4
+13,Gladiator,6,2025-04-10,7,"Un général romain déchu devient gladiateur pour se venger de l'empereur qui a tué sa famille.",155,3
+14,Titanic,7,2024-12-19,2,"Une histoire d'amour tragique entre deux passagers de classes sociales différentes à bord du célèbre paquebot.",195,4
+15,Star Wars : Un Nouvel Espoir,8,2023-05-25,9,"Un jeune fermier devient un héros galactique en rejoignant la rébellion contre l'Empire maléfique.",121,5
+16,Le Silence des Agneaux,9,2024-10-14,10,"Une jeune agente du FBI cherche l'aide d'un brillant mais dangereux psychopathe pour capturer un tueur en série.",118,4
+17,Les Dents de la Mer,10,2023-06-20,3,"Une petite station balnéaire est terrorisée par un grand requin blanc, forçant le chef de la police à traquer la bête.",124,3
+18,La Liste de Schindler,11,2025-03-01,11,"Un industriel allemand sauve des centaines de Juifs des camps de concentration pendant la Seconde Guerre mondiale.",195,5
+19,Retour vers le Futur,12,2024-07-03,12,"Un adolescent est accidentellement envoyé 30 ans dans le passé dans une machine à voyager dans le temps inventée par son ami scientifique excentrique.",116,4
+20,Le Roi Lion,13,2023-11-24,13,"Un jeune lion princier s'échappe de son royaume après la mort de son père, mais apprend son destin et retourne pour le revendiquer.",88,5
+21,Avatar,14,2024-12-18,1,"Un marine paraplégique est envoyé sur la lune Pandora, où il devient un membre de la population indigène et lutte contre l'exploitation humaine.",162,3
+22,La La Land,15,2023-09-01,8,"Une actrice en herbe et un pianiste de jazz talentueux poursuivent leurs rêves à Los Angeles tout en tombant amoureux.",128,4
+23,Le Fabuleux Destin d'Amélie Poulain,16,2023-10-15,5,"Une jeune serveuse à Paris décide de changer la vie de ceux qui l'entourent en répandant des actes de gentillesse.",122,5
+24,Inglourious Basterds,15,2025-08-21,4,"Un groupe de soldats juifs américains complote pour tuer des dirigeants nazis en France occupée pendant la Seconde Guerre mondiale.",153,4
+25,La Vie est Belle,11,2024-02-14,6,"Un père juif utilise l'humour pour protéger son fils de la réalité effroyable des camps de concentration nazis.",116,5
+26,Le Grand Bleu,12,2025-05-19,7,"L'amitié et la rivalité de deux apnéistes de renommée mondiale, qui plongent dans les profondeurs marines.",168,3
+27,La Haine,1,2024-06-02,8,"La vie quotidienne de trois jeunes amis de banlieue après une émeute à Paris.",98,4
+28,Mad Max: Fury Road,8,2025-11-01,7,"Dans un monde post-apocalyptique, Max rejoint une femme rebelle pour échapper à un tyran et ses sbires.",120,4
+29,Les Infiltrés,2,2023-04-10,2,"Un policier infiltré dans la mafia et un membre de la mafia infiltré dans la police se battent pour découvrir l'identité de l'autre.",151,5
+30,Le Labyrinthe de Pan,3,2025-07-30,6,"Une jeune fille découvre un monde fantastique et terrifiant alors qu'elle tente d'échapper à la dure réalité de l'Espagne franquiste.",118,4
+31,Les Gardiens de la Galaxie,4,2023-08-01,9,"Un groupe de criminels intergalactiques s'unit pour sauver l'univers d'une menace cosmique.",121,4
+32,Amour,5,2024-12-25,10,"Un couple âgé fait face à la maladie et au déclin de la femme, tout en tenant bon à leur amour.",127,5
+33,Les Sept Samouraïs,6,2024-03-18,8,"Des samouraïs défendent un village de paysans contre des bandits impitoyables dans le Japon féodal.",207,5
+34,L'Étrange Noël de monsieur Jack,7,2023-10-31,5,"Le roi des citrouilles de Halloween Town découvre Christmas Town et tente de prendre la place du Père Noël.",76,4
+35,Drive,8,2024-09-12,4,"Un cascadeur de jour et chauffeur pour des braqueurs de nuit se retrouve en danger après un braquage qui tourne mal.",100,3
+36,Black Swan,9,2023-05-18,11,"Une ballerine ambitieuse descend dans la folie en préparant le rôle principal dans une nouvelle production de 'Le Lac des cygnes'.",108,5
+37,Hugo Cabret,3,2024-02-28,12,"Un orphelin vivant dans une gare de Paris découvre un secret lié à son défunt père et une mystérieuse invention.",126,4
+38,La Forme de l'eau,4,2025-03-10,3,"Une femme muette forme une connexion unique avec une créature amphibienne détenue dans un laboratoire gouvernemental.",123,4
+39,Coco,15,2023-11-22,9,"Un jeune garçon passionné de musique se retrouve dans le monde des morts pour découvrir les secrets de sa famille.",105,5
+40,Whiplash,9,2024-04-10,4,"Un jeune batteur de jazz ambitieux pousse ses limites sous la direction d'un professeur exigeant et impitoyable.",106,5

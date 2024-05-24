@@ -1,0 +1,82 @@
+p_id,contenu,p_date,sujet,emotion,conv_fk,ev_fk,film_fk,serie_fk,parent_id
+1,"Un chef-d'œuvre visuel!",2024-12-16,"Cinéma","admiration",8,9,9,8,
+2,"Captivant du début à la fin.",2024-08-27,"Cinéma","appréciation",3,5,2,4,
+3,"Une série incroyablement bien écrite.",2023-05-28,"Séries","admiration",8,8,6,7,
+4,"Les effets spéciaux sont époustouflants!",2024-06-29,"Cinéma","émerveillement",8,6,8,3,
+5,"Un film touchant et émouvant.",2023-06-20,"Cinéma","émotion",1,1,3,3,
+6,"Une comédie hilarante à voir absolument.",2024-08-30,"Séries","joie",7,5,3,2,
+7,"Une belle histoire bien racontée.",2023-11-27,"Séries","appréciation",5,7,2,1,
+8,"Un film qui fait réfléchir.",2024-03-05,"Cinéma","réflexion",3,6,1,6,
+9,"Des personnages attachants et bien développés.",2025-01-14,"Séries","affection",1,9,4,8,4
+10,"L'intrigue est un peu prévisible.",2023-09-11,"Cinéma","indifférence",9,7,2,1,4
+11,"Une aventure épique!",2024-10-14,"Cinéma","excitation",5,3,2,2,10
+12,"Les acteurs sont incroyables.",2024-12-20,"Cinéma","admiration",7,8,9,1,
+13,"La fin m'a laissé sans voix.",2024-02-18,"Séries","surprise",3,6,9,7,2
+14,"Une histoire d'amour captivante.",2024-03-09,"Cinéma","romantisme",3,7,7,3,
+15,"Le meilleur film que j'ai vu cette année.",2023-07-29,"Cinéma","appréciation",9,6,10,7,1
+16,"Un thriller haletant!",2025-02-22,"Cinéma","tension",3,5,4,6,
+17,"Une série documentaire fascinante.",2023-05-27,"Séries","intérêt",4,1,8,8,
+18,"La bande sonore est magnifique.",2024-06-21,"Cinéma","admiration",3,3,4,6,
+19,"Un film d'animation adorable.",2025-02-05,"Cinéma","affection",1,7,2,6,
+20,"L'humour est au rendez-vous.",2024-05-07,"Séries","joie",8,6,3,2,
+21,"Un drame intense et bien joué.",2024-12-16,"Cinéma","émotion",2,5,8,2,
+22,"Un excellent film pour toute la famille.",2023-07-11,"Cinéma","appréciation",7,4,5,2,
+23,"Les décors sont absolument magnifiques.",2023-11-05,"Cinéma","admiration",5,1,5,9,16
+24,"Une série addictive!",2024-11-06,"Séries","enthousiasme",5,5,4,3,
+25,"Une intrigue complexe et passionnante.",2023-12-15,"Séries","intérêt",2,4,5,7,
+26,"Un film d'action palpitant.",2024-04-07,"Cinéma","excitation",8,5,6,5,
+27,"Des scènes de combat incroyables.",2024-06-03,"Cinéma","admiration",4,5,7,1,
+28,"Un film qui m'a fait pleurer.",2025-02-27,"Cinéma","émotion",3,9,2,6,
+29,"La série de l'année!",2024-03-10,"Séries","enthousiasme",1,3,1,6,
+30,"Une adaptation fidèle du livre.",2025-05-01,"Cinéma","appréciation",7,9,2,7,
+31,"Les rebondissements sont excellents.",2024-07-04,"Cinéma","admiration",8,9,10,1,
+32,"Une ambiance mystérieuse et captivante.",2025-04-22,"Séries","intérêt",6,7,4,3,
+33,"Une série à ne pas manquer.",2024-06-10,"Séries","enthousiasme",8,6,3,4,
+34,"Un classique revisité avec brio.",2023-09-26,"Cinéma","admiration",10,7,3,7,23
+35,"Des performances d'acteurs exceptionnelles.",2025-01-22,"Cinéma","admiration",9,4,2,3,
+36,"Un film bouleversant.",2023-08-22,"Cinéma","émotion",4,2,6,5,
+37,"Un scénario bien ficelé.",2024-06-27,"Séries","appréciation",7,3,8,8,
+38,"Une série immersive.",2023-11-02,"Séries","intérêt",5,6,5,8,
+39,"Une aventure cinématographique mémorable.",2025-05-11,"Cinéma","admiration",5,7,3,4,
+40,"Un film à voir absolument.",2024-01-22,"Cinéma","appréciation",4,3,6,6,
+41,"Des moments de tension incroyables.",2023-11-09,"Cinéma","tension",2,8,6,4,
+42,"Un thriller psychologique intense.",2024-07-23,"Cinéma","tension",6,5,1,6,
+43,"Une série captivante.",2025-03-05,"Séries","intérêt",10,6,1,2,36
+44,"Une aventure époustouflante.",2023-06-21,"Cinéma","émerveillement",8,5,2,9,
+45,"Un drame poignant.",2025-03-02,"Cinéma","émotion",7,6,7,3,
+46,"Une comédie rafraîchissante.",2025-05-12,"Séries","joie",3,2,5,3,
+47,"Un film plein de suspense.",2025-03-13,"Cinéma","tension",3,8,6,1,
+48,"Une histoire inspirante.",2024-04-05,"Cinéma","admiration",6,7,3,4,
+49,"Un film émouvant.",2025-03-23,"Cinéma","émotion",5,2,10,1,
+50,"Une fin surprenante.",2024-10-12,"Séries","surprise",3,5,2,6,
+51,"Un film captivant.",2025-05-11,"Cinéma","intérêt",4,1,1,9,
+52,"Des personnages inoubliables.",2023-08-26,"Cinéma","affection",4,9,6,6,
+53,"Un voyage cinématographique.",2024-11-07,"Cinéma","admiration",7,4,2,6,
+54,"Un film magnifiquement réalisé.",2025-05-14,"Cinéma","admiration",4,6,4,3,44
+55,"Un chef-d'œuvre.",2025-03-12,"Cinéma","admiration",3,9,4,6,
+56,"Une série fascinante.",2024-05-04,"Séries","intérêt",6,9,9,1,
+57,"Un film à couper le souffle.",2024-02-21,"Cinéma","admiration",4,6,6,3,
+58,"Une série d'exception.",2023-06-15,"Séries","admiration",3,6,3,4,
+59,"Un film magnifique.",2023-09-11,"Cinéma","admiration",8,7,9,9,1
+60,"Un excellent thriller.",2024-01-26,"Cinéma","tension",1,3,2,10,
+61,"Une histoire captivante.",2025-05-22,"Cinéma","intérêt",1,1,7,1,1
+62,"Des moments forts.",2024-09-12,"Cinéma","tension",9,5,7,8,60
+63,"Un film intense.",2025-03-30,"Cinéma","tension",7,6,4,8,
+64,"Une série passionnante.",2023-11-08,"Séries","intérêt",4,10,5,7,
+65,"Un film à ne pas manquer.",2025-04-25,"Cinéma","enthousiasme",8,10,3,2,
+66,"Un film émouvant.",2024-09-15,"Cinéma","émotion",8,2,10,5,
+67,"Une histoire prenante.",2023-12-11,"Cinéma","intérêt",9,6,8,2,
+68,"Un scénario original.",2023-10-27,"Cinéma","appréciation",2,4,8,5,
+69,"Des acteurs talentueux.",2024-01-09,"Cinéma","admiration",6,10,3,9,
+70,"Un film captivant.",2024-06-10,"Cinéma","intérêt",3,8,6,2,
+71,"Une intrigue bien ficelée.",2025-04-30,"Cinéma","appréciation",6,5,3,2,
+72,"Un film poignant.",2023-12-22,"Cinéma","émotion",2,2,8,7,3
+73,"Un univers immersif.",2024-06-15,"Cinéma","intérêt",8,8,1,4,
+74,"Des personnages attachants.",2024-09-26,"Cinéma","affection",3,8,3,3,
+75,"Un film captivant.",2024-02-16,"Cinéma","intérêt",8,6,9,7,
+76,"Une série rafraîchissante.",2024-03-27,"Séries","joie",9,9,5,6,
+77,"Des moments d'intensité.",2024-04-30,"Cinéma","tension",7,3,8,2,
+78,"Une intrigue complexe.",2023-10-25,"Cinéma","intérêt",9,1,6,4,
+79,"Des scènes magnifiques.",2024-06-14,"Cinéma","admiration",3,5,1,6,
+80,"Un film à voir.",2024-10-22,"Cinéma","intérêt",9,4,2,5,63
+81,"Une série bien construite.",2024-09-01,"Séries","appréciation",10,3,4,7,
